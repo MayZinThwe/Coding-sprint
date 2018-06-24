@@ -1,4 +1,4 @@
-my_name = 'Ba Nyar Naing'
+my_name = 'May Zin Thwe'
 my_age = 21
 my_height = 66 # inches
 my_weight = 135 # lbs
